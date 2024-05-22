@@ -15,7 +15,7 @@ If a lecture features additional files, those are located in [lecture files](htt
 
 [Labs](https://github.com/michiganrobotics/rob311/tree/main/Labs) are based around the design and build of the ballbot, requiring certain hardware and access to machines, including 3D printer, laser cutter, and water jet.
 
-The parts list:
+The parts list (or [see full bill of materials](https://github.com/michiganrobotics/rob311/blob/main/Resources/Ballbot%20Bill%20of%20Materials.pdf)):
 - Raspberry Pi Pico
 - BlinkM led
 - 3 Pololu 37D gearmotors
